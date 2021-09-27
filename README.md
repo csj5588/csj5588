@@ -5,7 +5,7 @@ Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/i
 - 🔭 I’m currently working on China Changsha
 - 🌱 I [reading article](https://csj5588.github.io/articles-every-day/#/README) and writing article. 
 - 🌈 I'm an author in JueJin, [HomePage](https://juejin.im/user/342703357565614/posts)
-- 🌍 connect me cuishijie@inke.cn
+- 🌍 connect me 1839333350@qq.com
 
 <h3>Things I code with</h3>
 <p>
