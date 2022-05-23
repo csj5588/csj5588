@@ -2,7 +2,7 @@
 
 Here I write some of my profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-- 🔭 I’m currently working on China Changsha
+- 🔭 I’m currently working on Beijing
 - 🌱 I [reading article](https://csj5588.github.io/articles-every-day/#/README) and writing article. 
 - 🌈 I'm an author in JueJin, [HomePage](https://juejin.im/user/342703357565614/posts)
 - 🌍 connect me 1839333350@qq.com
